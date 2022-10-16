@@ -4,7 +4,9 @@
 }
 body{
     background: linear-gradient(to right, rgba(21, 187, 224,0.3), rgba(200,21,224,0.3));
+
     display:flex;
+    display: flex;
     flex-wrap: wrap;
 }
 .main{
