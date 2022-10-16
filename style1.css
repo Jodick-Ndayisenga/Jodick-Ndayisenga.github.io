@@ -18,14 +18,11 @@ body{
     width: 1200px;
     height: 75px;
     margin: auto;
-    display: flex;
 }
 .pic{
     width: 110px;
     float: left;
     height: 60px;
-    display:flex;
-    flex-wrap: wrap;
 }
 .icon{
     width: 200px;
