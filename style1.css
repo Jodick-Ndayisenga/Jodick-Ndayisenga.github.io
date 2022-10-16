@@ -11,16 +11,19 @@ body{
     background-position: center;
     background-size: cover;
     height: 109vh;
+    display: flex,
 }
 .navbar{
     width: 1200px;
     height: 75px;
     margin: auto;
+    display: flex;
 }
 .pic{
     width: 110px;
     float: left;
     height: 60px;
+    display:flex;
 }
 .icon{
     width: 200px;
