@@ -7,7 +7,7 @@ body{
 
     display:flex;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap
 }
 .main{
     width: 100%;
