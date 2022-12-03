@@ -6,8 +6,7 @@ body{
     background: linear-gradient(to right, rgba(21, 187, 224,0.3), rgba(200,21,224,0.3));
 
     display:flex;
-    display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 .main{
     width: 100%;
@@ -46,7 +45,7 @@ body{
 }
 #rajaLogo{
     margin-top: 20px;
-    border-radius:50%;
+    border-radius:10px;
 }
 .manu{
     width: 400px;
@@ -114,6 +113,8 @@ ul li a:hover{
     outline: none;
 }
 .contents{
+    display: flex;
+    flex-wrap: wrap;
     width: 1200px;
     height: auto;
     margin: auto;
