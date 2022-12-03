@@ -44,6 +44,10 @@ body{
     padding-top: 10px;
 
 }
+#rajaLogo{
+    margin-top: 20px;
+    border-radius:50%;
+}
 .manu{
     width: 400px;
     float: left;
